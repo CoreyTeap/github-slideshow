@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Kobe Bryant is the best player
 Use the left arrow to go back!
